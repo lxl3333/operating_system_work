@@ -11,7 +11,7 @@ proc文件系统是接入vfs的，也就是说可以当成一般文件进行访�
 
 + /proc/cpuinfo     cpu的信息
 + /proc/meminfo     物理内存、交换空间等消息
-+ /proc/loaddavg    查看系统1分钟、5分钟、15分钟的平均负载情况
++ /proc/loadavg    查看系统1分钟、5分钟、15分钟的平均负载情况
 + /proc/mounts      已经加载的文件系统列表
 + /proc/devices     可用的设备列表
 + /proc/filesystems 被支持的文件系统
